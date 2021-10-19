@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatsRahmat
-- 👀 I’m interested in Coding In HTMl
+- 👀 I’m interested in Coding In HTML
 - 🌱 I’m currently learning PHP Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
